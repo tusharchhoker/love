@@ -42,4 +42,5 @@ yes.addEventListener('click',()=>{
     head_one.innerText="Hehehehe 😊😊"
     head_two.innerText="mujhe to pata tha!!"
     yes.style.visibility="hidden"
+    no.style.visibility="hidden"
 })
